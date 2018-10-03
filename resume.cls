@@ -113,7 +113,7 @@
 
 \newcommand{\basicInfo}[1]{
   \centerline{\sffamily\large{#1}}
-  \vspace{1.5ex}
+  \vspace{1.0ex}
 }
 
 \newcommand{\role}[2]{
